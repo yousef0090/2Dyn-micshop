@@ -19,7 +19,7 @@ const prefix = "." // تقدر تغيره
       .setTimestamp()
     let filter = m => m.author.id === message.author.id;
    if(message.content.startsWith(".buy")){
-       let user = client.users.get("483961533777444874"); // ايديك
+       let user = client.users.get("552496297429565440"); // ايديك
 	  let user1 = client.users.get("458908289502281728");
      //ههقهقهقه
     // جيبلي كود فيه تحقق yes or no
